@@ -1,0 +1,13 @@
+.currency {}
+
+.currency-EUR:after {
+  content: "€";
+}
+
+.currency-USD:after {
+  content: "$";
+}
+
+.currency-JPY:after {
+  content: "¥";
+}
