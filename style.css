@@ -4,10 +4,14 @@
   content: "€";
 }
 
-.currency-USD:after {
+.currency-USD:before {
   content: "$";
 }
 
 .currency-JPY:after {
   content: "¥";
+}
+
+.currency-GBP:after {
+  content: "£";
 }
